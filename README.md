@@ -55,11 +55,9 @@ Examples:
 
 =COUNTIF(C:C,"<100")
 ```
-
 ---
 
 ### Text Functions
-
 Text functions extract or manipulate specific portions of text.
 
 * **LEFT()** – Extracts characters from the beginning of a text string.
@@ -77,7 +75,6 @@ Examples:
 ```
 
 ---
-
 ## Excel Functions Used
 
 * SUM()
@@ -93,19 +90,6 @@ Examples:
 * MID()
 
 ---
-
-## Skills Demonstrated
-
-* Data summarization
-* Statistical analysis
-* Logical decision-making
-* Conditional calculations
-* Text extraction and manipulation
-* Data organization and transformation
-* Spreadsheet-based data analysis
-
----
-
 ## Conclusion
 
 This project highlights the practical use of essential Excel functions for analyzing, organizing, and transforming data. Mastering these concepts builds a strong foundation for data analysis, reporting, and business decision-making using Microsoft Excel.
