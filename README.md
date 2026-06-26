@@ -6,7 +6,7 @@ This project demonstrates the use of fundamental Microsoft Excel functions for d
 
 ---
 
-## Concepts Covered
+## Concepts 
 
 ### Statistical Functions
 
